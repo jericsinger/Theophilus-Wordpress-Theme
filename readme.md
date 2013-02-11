@@ -5,10 +5,14 @@ A minimal Wordpress theme.
 * [Landing Page](http://timothy-long.com/theophilus)
 * [Live Demo](http://timothy-long.com/theophilus/demo)
 
+### Features
+
 * jQuery + Cuf&oacute;n
 * Valid xHTML Strict
 * Widget-ready
 * Custom archive page
+
+### Specs
 
 * **Released:** May 5, 2011
 * **Theme Type:** Personal Blog
